@@ -1,0 +1,10 @@
+pandas
+numpy
+yfinance
+requests
+python-dotenv
+ta
+pydantic
+openai>=1.10.0
+streamlit
+matplotlib
