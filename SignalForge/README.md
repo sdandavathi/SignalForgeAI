@@ -17,6 +17,14 @@ cp .env.example .env  # add your OPENAI_API_KEY
 python run_pipeline.py AAPL
 ```
 
+## Conda
+```
+conda create --name signal_forge python=3.10
+conda activate signal_forge
+pip install -r requirements.txt
+````
+
+
 ## Streamlit
 ```bash
 streamlit run app.py
